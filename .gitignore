@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-/keys.js
+
 # next.js
 /.next/
 /out/
