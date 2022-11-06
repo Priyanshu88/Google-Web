@@ -27,6 +27,7 @@ function Header() {
                     width={120}
                     className="cursor-pointer"
                     onClick={() => router.push("/")}
+                    alt=""
                 />
                 <form className="flex flex-grow px-6 py-3 ml-10 mr-5 border border-gray-200 rounded-full shadow-lg max-w-3xl items-center">
                     <input className="flex-grow w-full focus:outline-none" ref={searchInputRef} type="text" defaultValue={router.query.term} />
