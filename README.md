@@ -268,7 +268,7 @@ This project uses [`heroicons`](https://heroicons.com/) for icons.
 
 ### :triangular_flag_on_post: Deployment
 
-To deploy this project run
+To deploy this project
 
 ##### Frontend
 
