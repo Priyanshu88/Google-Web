@@ -59,9 +59,7 @@
 <a href="https://google-web.vercel.app/" target="_blank"><img  src='./demo/ezgif-2-b23fb77da9.gif' alt='image'/></a>
 </div>
 
-
-
-
+https://user-images.githubusercontent.com/86107841/229701821-ed69eb8d-91d7-4865-8bef-de8c96c32e3a.mp4
 
 
 <br />
@@ -69,7 +67,7 @@
 - Home Page
 
 <div align="center">
-<a href="https://google-web.vercel.app/" target="_blank"><img  src='' alt='image' width='800'/></a>
+<a href="https://google-web.vercel.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/229700389-6510438e-5021-4981-95ba-931974f965ba.png' alt='image' width='800'/></a>
 </div>
 
 <br />
@@ -77,7 +75,7 @@
 - Search Page
 
 <div align="center">
-<a href="https://google-web.vercel.app/" target="_blank"><img  src='' alt='image' width='800'/></a>
+<a href="https://google-web.vercel.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/86107841/229700723-4f95ba94-7641-4ebf-ae89-ad8d0ed3753e.png' alt='image' width='800'/></a>
 </div>
 
 ## <a href="https://google-web.vercel.app/" target="_blank">LIVE DEMO 💥</a>
@@ -116,13 +114,13 @@
        <td>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Google" width="30" height="30" /></a>
         </td>
-                        <td>
+          <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/179383376-874f547c-4e6f-4826-850e-706b009e7e2b.png" alt="" width="30" height="30" /></a>
         </td>
-                        <td>
+          <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/180462270-ea4a249c-627c-4479-9431-5c3fd25454c4.png" alt="" width="30" height="30" /></a>
         </td>
-                   <td>
+          <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/86107841/226000274-de146527-4fe8-4a3f-b210-dc4c195ab23d.jpg" alt="" width="30" height="30" /></a>
         </td>
       <td>
@@ -142,7 +140,7 @@
 
 ### :key: Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your keys file
 
 - Frontend
 
@@ -289,7 +287,7 @@ Check out our [Vercel deployment documentation](https://vercel.com/docs) for mor
 
 Your Name - [@twitter_handle](https://twitter.com/Priyans75729802?s=09) - 2040020@sliet.ac.in
 
-Project Link: [https://github.com/Priyanshu88/medium.com.git](https://github.com/Priyanshu88/medium.com.git)
+Project Link: [https://github.com/Priyanshu88/Google-Web.git](https://github.com/Priyanshu88/Google-Web.git)
 
 <hr />
 <br />
